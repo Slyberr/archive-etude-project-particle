@@ -1,0 +1,53 @@
+{
+	"WindowTitle":"Projet particles",
+	"WindowSizeX": 1500,
+  	"WindowSizeY": 900,
+	"ParticleImage": "assets/particle.png",
+	"Debug": true,
+	"InitNumParticles":0,
+	"RandomSpawn":false,
+	"SpawnX": -100,
+	"SpawnY": 500,
+	"SpawnRate": 5,
+
+	"ScaleX": 7,
+    "ScaleY": 4,
+
+	"RandomColorRed": false,
+	"RandomColorGreen": false,
+	"RandomColorBlue": false,
+	
+
+	"Red": 1,
+	"Green": 1,
+	"Blue": 1,
+
+	"SpeedXmin": 1,
+	"SpeedXmax": 4,
+	"SpeedYmin": 0.5,
+	"SpeedYmax":0.5,
+
+	
+	"Opacity": 0.5,
+
+	"Bounce": false,
+	"Gravity": false ,
+	"CsteGravity":0.1,
+	"DecelerationChoc":0.1 ,
+	
+	
+
+
+	"LifeTime": false,
+	"LifeDuration": 180,
+
+
+
+	"Optimize": true,
+	
+
+
+	"Brouillard":   true
+
+
+}
